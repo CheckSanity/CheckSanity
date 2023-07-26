@@ -6,7 +6,7 @@ I am passionate about clean code and creating beautiful and joyful digital exper
 -------------------
 
 ## Contact
-<a href="https://instagram.com/CheckSanity/">![Instagram](https://s3.timeweb.com/890fdb6a-sanity/static/sanity/github/assets/instagram.svg)</a> <a href="https://t.me/CheckSanity">![Telegram](https://s3.timeweb.com/890fdb6a-sanity/static/sanity/github/assets/telegram.svg)</a>
+<a href="https://instagram.com/CheckSanity/" target="_blank">![Instagram](https://s3.timeweb.com/890fdb6a-sanity/static/sanity/github/assets/instagram.svg)</a> <a href="https://t.me/CheckSanity" target="_blank">![Telegram](https://s3.timeweb.com/890fdb6a-sanity/static/sanity/github/assets/telegram.svg)</a>
 
 -------------------
 
