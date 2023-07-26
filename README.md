@@ -1,11 +1,9 @@
 <div align="center">
 
-## Hello There.
+# Hello There. #
 
--------------------
-My name is Gary Bezruchko, and I am software engineer with over 8 years of total experience in
-software development with competence in various technical areas.
-I am passionate about clean code and creating beautiful and joyful digital experiences.
+<p>My name is Gary Bezruchko, and I am software engineer with over 8 years of total experience in software development with competence in various technical areas. I am passionate about clean code and creating beautiful and joyful digital experiences.</p>
+
 -------------------
 
 ### Contacts
@@ -20,6 +18,4 @@ I am passionate about clean code and creating beautiful and joyful digital exper
 
 -------------------
 ![CheckSanity github streak](https://github-readme-streak-stats.herokuapp.com/?user=CheckSanity&theme=vue-dark&include_all_commits=true&count_private=true&hide_border=true)
-
------
 </div>
